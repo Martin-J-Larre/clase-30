@@ -1,0 +1,5 @@
+2022/01/31 01:05:23 [error] 16584#7852: *1 CreateFile() "C:\Users\MARTI\Desktop\nginx-1.21.6/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/01/31 02:04:31 [notice] 16940#33796: signal process started
+2022/01/31 02:04:31 [error] 16940#33796: OpenEvent("Global\ngx_stop_21536") failed (5: Access is denied)
+2022/01/31 02:30:26 [notice] 13836#5708: signal process started
+2022/01/31 02:30:26 [error] 13836#5708: OpenEvent("Global\ngx_reload_21536") failed (2: The system cannot find the file specified)
